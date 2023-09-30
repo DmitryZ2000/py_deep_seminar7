@@ -46,6 +46,3 @@ def fun_create_file(ext_name: str, min_len_file_name : int = 6, max_len_file_nam
 
 if __name__ == '__main__':
     fun_create_file('txt', 5, 25, number_file = 4)
-
-
-
